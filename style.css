@@ -3,8 +3,14 @@
  }
  #container{
     width: 360px;
-    height:712px;
     border: 1px solid red;
     margin: auto;
-   
+    display: -ms-inline-flexbox;
+    
  }
+ #profile {
+   text-align: center;
+ }
+#profile img {
+   width: 112px;
+}
